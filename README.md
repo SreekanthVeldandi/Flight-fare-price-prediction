@@ -1,2 +1,2 @@
-# Flight-fare-price-prediction
-Flight fare price prediction using Random Forest
+# Flight-fare-prediction
+Flight fare prediction using Random Forest
